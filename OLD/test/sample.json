@@ -1,0 +1,2159 @@
+{
+  "resultType": "SUCCESS",
+  "resultClass": "該当有り",
+  "resultMessage": "ルール番号に該当しました",
+  "document": [
+    "",
+    "【おすすめ保険】",
+    "---候補1---",
+    "保険商品名：医療保険　Ever　Prime",
+    "月額：1,185",
+    "試算前提表示内容：|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|入院給付金の支払限度の型：60日型|その他：定額タイプ, 三大疾病保険料払込免除特約なし, 保険祝い金なし, 外来手術増額特則あり",
+    "優先度：2",
+    "---候補2---",
+    "保険商品名：メディカルKit NEO",
+    "月額：1,316",
+    "試算前提表示内容：|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|入院給付金の支払限度の型：60日型|手術給付金および放射線治療給付金の給付倍率の型：?型|特約：通院特約（通院給付金日額3,000円）|その他：特定疾病保険料払込免除特則なし, 初期入院保障特則あり",
+    "優先度：2",
+    "---候補3---",
+    "保険商品名：生きるためのがん保険Days1　All-in",
+    "月額：1,542",
+    "試算前提表示内容：|保険期間／保険料払込期間：終身|入院給付金日額：10,000円|治療給付金額：10万円|診断給付金額：50万円|特定診断給付金額：50万円|複数回診断給付金額：50万円|特約：がん治療保障特約（治療給付金）, がん先進医療特約|その他：定額タイプ, 解約払戻金なしタイプ, 特定保険料払込免除特約なし",
+    "優先度：2",
+    "---候補4---",
+    "保険商品名：生きるためのがん保険Days1",
+    "月額：957",
+    "試算前提表示内容：|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|特約：がん先進医療特約, 診断給付金複数回支払特約|その他：ベースプラン定額タイプ,定額タイプ, 解約払戻金なしタイプ,特定保険料払込免除特約なし",
+    "優先度：2",
+    "---候補5---",
+    "保険商品名：＆LIFE 新医療保険Aプレミア",
+    "月額：直接お問い合わせください",
+    "試算前提表示内容：|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|支払限度の型：60日型|手術給付金の型：手術?型|特約：先進医療特約(無解約返戻金型)　, 通院給付特約(無解約返戻金型)(18)|その他：初期入院10日給付特則付, 八大疾病入院無制限給付特則付 ",
+    "優先度：2",
+    "---候補6---",
+    "保険商品名：自転車保険プラン（?個人賠償責任、?携行品、?傷害補償日常生活プラン）",
+    "月額：1,120",
+    "試算前提表示内容：|保険期間／保険料払込期間：1年|個人賠償責任保険　国内：無制限,国外：1億円|弁護士費用等（人格権侵害等）：300万円|日常のケガ・特定感染症　死亡・後遺障害保険金額：300万円|携帯品保険金額（免責金額5,000円）：30万円| その他：本人型、職種種別A",
+    "優先度：2",
+    "---候補7---",
+    "保険商品名：ゴルファープラン（?傷害補償、?個人賠償責任、?携行品、?ホールインワン）",
+    "月額：500",
+    "試算前提表示内容：|保険期間／保険料払込期間：1年|入院給付金日額：15,000円|死亡後遺傷害保険金額：1,000万円|個人賠償責任保険　国内：無制限,国外：1億円, 携帯品保険金額（免責金額5,000円）：50万円|ホールインワン・アルバトロス保険金額：50万円|その他：職種種別A",
+    "優先度：2",
+    "---候補8---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補9---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補10---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補11---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補12---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補13---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補14---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補15---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補16---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補17---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補18---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補19---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度：",
+    "---候補20---",
+    "保険商品名：",
+    "月額：",
+    "試算前提表示内容：",
+    "優先度："
+  ],
+  "queryInfos": [
+    {
+      "name": "年齢",
+      "value": "2",
+      "type": "数値",
+      "args": {},
+      "queryMessage": "年齢を入力してください。",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "性別",
+      "value": "男性",
+      "type": "セレクト",
+      "args": {
+        "options": [
+          {
+            "label": "男性",
+            "value": "男性"
+          },
+          {
+            "label": "女性",
+            "value": "女性"
+          }
+        ]
+      },
+      "queryMessage": "性別を選択してください。",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "現在日付",
+      "value": "20220407",
+      "type": "数値",
+      "args": {},
+      "queryMessage": "現在の日付を入力してください。",
+      "supplementaryMessage": "YYYYMMDD",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "表示条件_医療保険",
+      "value": "ー",
+      "type": "セレクト",
+      "args": {
+        "options": [
+          {
+            "label": "〇",
+            "value": "〇"
+          },
+          {
+            "label": "ー",
+            "value": "ー"
+          }
+        ]
+      },
+      "queryMessage": "表示条件を選択してください。",
+      "supplementaryMessage": "条件を指定しない場合、「ー」を選択してください。",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "表示条件_がん保険",
+      "value": "ー",
+      "type": "セレクト",
+      "args": {
+        "options": [
+          {
+            "label": "〇",
+            "value": "〇"
+          },
+          {
+            "label": "ー",
+            "value": "ー"
+          }
+        ]
+      },
+      "queryMessage": "表示条件を選択してください。",
+      "supplementaryMessage": "条件を指定しない場合、「ー」を選択してください。",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "表示条件_団体長期障害所得補償保険",
+      "value": "ー",
+      "type": "セレクト",
+      "args": {
+        "options": [
+          {
+            "label": "〇",
+            "value": "〇"
+          },
+          {
+            "label": "ー",
+            "value": "ー"
+          }
+        ]
+      },
+      "queryMessage": "表示条件を選択してください。",
+      "supplementaryMessage": "条件を指定しない場合、「ー」を選択してください。",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "表示条件_就労所得保障保険",
+      "value": "ー",
+      "type": "セレクト",
+      "args": {
+        "options": [
+          {
+            "label": "〇",
+            "value": "〇"
+          },
+          {
+            "label": "ー",
+            "value": "ー"
+          }
+        ]
+      },
+      "queryMessage": "表示条件を選択してください。",
+      "supplementaryMessage": "条件を指定しない場合、「ー」を選択してください。",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "表示条件_総合生活保険",
+      "value": "ー",
+      "type": "セレクト",
+      "args": {
+        "options": [
+          {
+            "label": "〇",
+            "value": "〇"
+          },
+          {
+            "label": "ー",
+            "value": "ー"
+          }
+        ]
+      },
+      "queryMessage": "表示条件を選択してください。",
+      "supplementaryMessage": "条件を指定しない場合、「ー」を選択してください。",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品リスト_全商品",
+      "value": [
+        "JAFL002",
+        "JTMA005",
+        "JAFL006",
+        "JAFL007",
+        "JMSA011",
+        "JTMK013",
+        "JTMK014"
+      ],
+      "type": "自動",
+      "args": {
+        "value": [
+          "JAFL002",
+          "JTMA005",
+          "JAFL006",
+          "JAFL007",
+          "JMSA011",
+          "JTMK013",
+          "JTMK014"
+        ]
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品リスト_医療保険",
+      "value": [
+        "JAFL002",
+        "JTMA005",
+        "JMSA011"
+      ],
+      "type": "自動",
+      "args": {
+        "value": [
+          "JAFL002",
+          "JTMA005",
+          "JMSA011"
+        ]
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品リスト_がん保険",
+      "value": [
+        "JAFL006",
+        "JAFL007"
+      ],
+      "type": "自動",
+      "args": {
+        "value": [
+          "JAFL006",
+          "JAFL007"
+        ]
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品リスト_団体長期障害所得補償保険",
+      "value": {},
+      "type": "自動",
+      "args": {
+        "value": {}
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品リスト_就労所得保障保険",
+      "value": {},
+      "type": "自動",
+      "args": {
+        "value": {}
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品リスト_総合生活保険",
+      "value": [
+        "JTMK013",
+        "JTMK014"
+      ],
+      "type": "自動",
+      "args": {
+        "value": [
+          "JTMK013",
+          "JTMK014"
+        ]
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品リスト_重複有り",
+      "value": [
+        "JAFL002",
+        "JTMA005",
+        "JAFL006",
+        "JAFL007",
+        "JMSA011",
+        "JTMK013",
+        "JTMK014"
+      ],
+      "type": "自動",
+      "args": {
+        "value": [
+          "JAFL002",
+          "JTMA005",
+          "JAFL006",
+          "JAFL007",
+          "JMSA011",
+          "JTMK013",
+          "JTMK014"
+        ]
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品リスト",
+      "value": [
+        "JAFL002",
+        "JTMA005",
+        "JAFL006",
+        "JAFL007",
+        "JMSA011",
+        "JTMK013",
+        "JTMK014"
+      ],
+      "type": "自動",
+      "args": {
+        "value": [
+          "JAFL002",
+          "JTMA005",
+          "JAFL006",
+          "JAFL007",
+          "JMSA011",
+          "JTMK013",
+          "JTMK014"
+        ]
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品1_商品No",
+      "value": "JAFL002",
+      "type": "自動",
+      "args": {
+        "value": "JAFL002"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品1_商品名",
+      "value": "医療保険　Ever　Prime",
+      "type": "自動",
+      "args": {
+        "value": "医療保険　Ever　Prime"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品1_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品1_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品1_付帯プラン名付き商品名",
+      "value": "医療保険　Ever　Prime",
+      "type": "自動",
+      "args": {
+        "value": "医療保険　Ever　Prime"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品1_試算前提表示内容",
+      "value": "|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|入院給付金の支払限度の型：60日型|その他：定額タイプ, 三大疾病保険料払込免除特約なし, 保険祝い金なし, 外来手術増額特則あり",
+      "type": "自動",
+      "args": {
+        "value": "|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|入院給付金の支払限度の型：60日型|その他：定額タイプ, 三大疾病保険料払込免除特約なし, 保険祝い金なし, 外来手術増額特則あり"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品1_表示優先度",
+      "value": "2",
+      "type": "自動",
+      "args": {
+        "value": "2"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品1_月額保険料",
+      "value": "1,185",
+      "type": "自動",
+      "args": {
+        "value": "1,185"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品2_商品No",
+      "value": "JTMA005",
+      "type": "自動",
+      "args": {
+        "value": "JTMA005"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品2_商品名",
+      "value": "メディカルKit NEO",
+      "type": "自動",
+      "args": {
+        "value": "メディカルKit NEO"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品2_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品2_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品2_付帯プラン名付き商品名",
+      "value": "メディカルKit NEO",
+      "type": "自動",
+      "args": {
+        "value": "メディカルKit NEO"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品2_試算前提表示内容",
+      "value": "|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|入院給付金の支払限度の型：60日型|手術給付金および放射線治療給付金の給付倍率の型：?型|特約：通院特約（通院給付金日額3,000円）|その他：特定疾病保険料払込免除特則なし, 初期入院保障特則あり",
+      "type": "自動",
+      "args": {
+        "value": "|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|入院給付金の支払限度の型：60日型|手術給付金および放射線治療給付金の給付倍率の型：?型|特約：通院特約（通院給付金日額3,000円）|その他：特定疾病保険料払込免除特則なし, 初期入院保障特則あり"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品2_表示優先度",
+      "value": "2",
+      "type": "自動",
+      "args": {
+        "value": "2"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品2_月額保険料",
+      "value": "1,316",
+      "type": "自動",
+      "args": {
+        "value": "1,316"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品3_商品No",
+      "value": "JAFL006",
+      "type": "自動",
+      "args": {
+        "value": "JAFL006"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品3_商品名",
+      "value": "生きるためのがん保険Days1　All-in",
+      "type": "自動",
+      "args": {
+        "value": "生きるためのがん保険Days1　All-in"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品3_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品3_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品3_付帯プラン名付き商品名",
+      "value": "生きるためのがん保険Days1　All-in",
+      "type": "自動",
+      "args": {
+        "value": "生きるためのがん保険Days1　All-in"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品3_試算前提表示内容",
+      "value": "|保険期間／保険料払込期間：終身|入院給付金日額：10,000円|治療給付金額：10万円|診断給付金額：50万円|特定診断給付金額：50万円|複数回診断給付金額：50万円|特約：がん治療保障特約（治療給付金）, がん先進医療特約|その他：定額タイプ, 解約払戻金なしタイプ, 特定保険料払込免除特約なし",
+      "type": "自動",
+      "args": {
+        "value": "|保険期間／保険料払込期間：終身|入院給付金日額：10,000円|治療給付金額：10万円|診断給付金額：50万円|特定診断給付金額：50万円|複数回診断給付金額：50万円|特約：がん治療保障特約（治療給付金）, がん先進医療特約|その他：定額タイプ, 解約払戻金なしタイプ, 特定保険料払込免除特約なし"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品3_表示優先度",
+      "value": "2",
+      "type": "自動",
+      "args": {
+        "value": "2"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品3_月額保険料",
+      "value": "1,542",
+      "type": "自動",
+      "args": {
+        "value": "1,542"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品4_商品No",
+      "value": "JAFL007",
+      "type": "自動",
+      "args": {
+        "value": "JAFL007"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品4_商品名",
+      "value": "生きるためのがん保険Days1",
+      "type": "自動",
+      "args": {
+        "value": "生きるためのがん保険Days1"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品4_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品4_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品4_付帯プラン名付き商品名",
+      "value": "生きるためのがん保険Days1",
+      "type": "自動",
+      "args": {
+        "value": "生きるためのがん保険Days1"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品4_試算前提表示内容",
+      "value": "|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|特約：がん先進医療特約, 診断給付金複数回支払特約|その他：ベースプラン定額タイプ,定額タイプ, 解約払戻金なしタイプ,特定保険料払込免除特約なし",
+      "type": "自動",
+      "args": {
+        "value": "|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|特約：がん先進医療特約, 診断給付金複数回支払特約|その他：ベースプラン定額タイプ,定額タイプ, 解約払戻金なしタイプ,特定保険料払込免除特約なし"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品4_表示優先度",
+      "value": "2",
+      "type": "自動",
+      "args": {
+        "value": "2"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品4_月額保険料",
+      "value": "957",
+      "type": "自動",
+      "args": {
+        "value": "957"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品5_商品No",
+      "value": "JMSA011",
+      "type": "自動",
+      "args": {
+        "value": "JMSA011"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品5_商品名",
+      "value": "＆LIFE 新医療保険Aプレミア",
+      "type": "自動",
+      "args": {
+        "value": "＆LIFE 新医療保険Aプレミア"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品5_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品5_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品5_付帯プラン名付き商品名",
+      "value": "＆LIFE 新医療保険Aプレミア",
+      "type": "自動",
+      "args": {
+        "value": "＆LIFE 新医療保険Aプレミア"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品5_試算前提表示内容",
+      "value": "|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|支払限度の型：60日型|手術給付金の型：手術?型|特約：先進医療特約(無解約返戻金型)　, 通院給付特約(無解約返戻金型)(18)|その他：初期入院10日給付特則付, 八大疾病入院無制限給付特則付 ",
+      "type": "自動",
+      "args": {
+        "value": "|保険期間／保険料払込期間：終身|入院給付金日額：5,000円|支払限度の型：60日型|手術給付金の型：手術?型|特約：先進医療特約(無解約返戻金型)　, 通院給付特約(無解約返戻金型)(18)|その他：初期入院10日給付特則付, 八大疾病入院無制限給付特則付 "
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品5_表示優先度",
+      "value": "2",
+      "type": "自動",
+      "args": {
+        "value": "2"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品5_月額保険料",
+      "value": "直接お問い合わせください",
+      "type": "自動",
+      "args": {
+        "value": "直接お問い合わせください"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品6_商品No",
+      "value": "JTMK013",
+      "type": "自動",
+      "args": {
+        "value": "JTMK013"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品6_商品名",
+      "value": "自転車保険プラン（?個人賠償責任、?携行品、?傷害補償日常生活プラン）",
+      "type": "自動",
+      "args": {
+        "value": "自転車保険プラン（?個人賠償責任、?携行品、?傷害補償日常生活プラン）"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品6_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品6_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品6_付帯プラン名付き商品名",
+      "value": "自転車保険プラン（?個人賠償責任、?携行品、?傷害補償日常生活プラン）",
+      "type": "自動",
+      "args": {
+        "value": "自転車保険プラン（?個人賠償責任、?携行品、?傷害補償日常生活プラン）"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品6_試算前提表示内容",
+      "value": "|保険期間／保険料払込期間：1年|個人賠償責任保険　国内：無制限,国外：1億円|弁護士費用等（人格権侵害等）：300万円|日常のケガ・特定感染症　死亡・後遺障害保険金額：300万円|携帯品保険金額（免責金額5,000円）：30万円| その他：本人型、職種種別A",
+      "type": "自動",
+      "args": {
+        "value": "|保険期間／保険料払込期間：1年|個人賠償責任保険　国内：無制限,国外：1億円|弁護士費用等（人格権侵害等）：300万円|日常のケガ・特定感染症　死亡・後遺障害保険金額：300万円|携帯品保険金額（免責金額5,000円）：30万円| その他：本人型、職種種別A"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品6_表示優先度",
+      "value": "2",
+      "type": "自動",
+      "args": {
+        "value": "2"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品6_月額保険料",
+      "value": "1,120",
+      "type": "自動",
+      "args": {
+        "value": "1,120"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品7_商品No",
+      "value": "JTMK014",
+      "type": "自動",
+      "args": {
+        "value": "JTMK014"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品7_商品名",
+      "value": "ゴルファープラン（?傷害補償、?個人賠償責任、?携行品、?ホールインワン）",
+      "type": "自動",
+      "args": {
+        "value": "ゴルファープラン（?傷害補償、?個人賠償責任、?携行品、?ホールインワン）"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品7_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品7_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品7_付帯プラン名付き商品名",
+      "value": "ゴルファープラン（?傷害補償、?個人賠償責任、?携行品、?ホールインワン）",
+      "type": "自動",
+      "args": {
+        "value": "ゴルファープラン（?傷害補償、?個人賠償責任、?携行品、?ホールインワン）"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品7_試算前提表示内容",
+      "value": "|保険期間／保険料払込期間：1年|入院給付金日額：15,000円|死亡後遺傷害保険金額：1,000万円|個人賠償責任保険　国内：無制限,国外：1億円, 携帯品保険金額（免責金額5,000円）：50万円|ホールインワン・アルバトロス保険金額：50万円|その他：職種種別A",
+      "type": "自動",
+      "args": {
+        "value": "|保険期間／保険料払込期間：1年|入院給付金日額：15,000円|死亡後遺傷害保険金額：1,000万円|個人賠償責任保険　国内：無制限,国外：1億円, 携帯品保険金額（免責金額5,000円）：50万円|ホールインワン・アルバトロス保険金額：50万円|その他：職種種別A"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品7_表示優先度",
+      "value": "2",
+      "type": "自動",
+      "args": {
+        "value": "2"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品7_月額保険料",
+      "value": "500",
+      "type": "自動",
+      "args": {
+        "value": "500"
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品8_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品8_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品8_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品8_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品8_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品8_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品8_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品8_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品9_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品9_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品9_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品9_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品9_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品9_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品9_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品9_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品10_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品10_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品10_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品10_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品10_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品10_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品10_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品10_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品11_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品11_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品11_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品11_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品11_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品11_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品11_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品11_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品12_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品12_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品12_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品12_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品12_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品12_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品12_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品12_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品13_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品13_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品13_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品13_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品13_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品13_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品13_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品13_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品14_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品14_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品14_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品14_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品14_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品14_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品14_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品14_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品15_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品15_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品15_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品15_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品15_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品15_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品15_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品15_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品16_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品16_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品16_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品16_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品16_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品16_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品16_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品16_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品17_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品17_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品17_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品17_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品17_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品17_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品17_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品17_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品18_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品18_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品18_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品18_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品18_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品18_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品18_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品18_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品19_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品19_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品19_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品19_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品19_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品19_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品19_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品19_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品20_商品No",
+      "value": "",
+      "type": "自動",
+      "args": {
+        "value": ""
+      },
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品20_商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品20_付帯プラン",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品20_付帯プラン後置詞",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品20_付帯プラン名付き商品名",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品20_試算前提表示内容",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品20_表示優先度",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    },
+    {
+      "name": "保険商品20_月額保険料",
+      "value": "",
+      "type": "自動",
+      "args": {},
+      "queryMessage": "",
+      "supplementaryMessage": "",
+      "visibility": true,
+      "status": "DEACTIVE"
+    }
+  ]
+}
